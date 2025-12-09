@@ -155,7 +155,7 @@ public class MainFilmNow {
 	 * @return A String formatada.
 	 */
 	private static String formataFilme(int posicao, Filme filme) {
-		return posicao + " - " + filme;
+		return (posicao + 1) + " - " + filme;
 	}
     
 	private static void mostrarFilmesPeloNome(FilmNow fn, Scanner scanner) {
