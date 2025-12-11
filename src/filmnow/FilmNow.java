@@ -81,7 +81,7 @@ public class FilmNow {
 	 *
 	 * @param posicao posição desejada (1 a 10)
 	 * @return {@code true} se o filme for removido; {@code false} caso a posição
-	 *         seja inválida ou esteja vazia
+	 * seja inválida ou esteja vazia
 	 */
 	public boolean removerHot(int posicao) {
 		
@@ -161,7 +161,7 @@ public class FilmNow {
 	 *
 	 * @param posicao a posição do filme a ser removido (1 a 100)
 	 * @return {@code true} se o filme for removido; {@code false} caso a posição
-	 *         seja inválida ou esteja vazia
+	 * seja inválida ou esteja vazia
 	 */
 	public boolean removerFilme(int posicao) {
 		
