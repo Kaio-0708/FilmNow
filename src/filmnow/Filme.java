@@ -137,7 +137,7 @@ public class Filme {
 	/**
      * Adiciona um novo local de exibição ao filme.
      *
-     * <p>Não permite adicionar locais duplicados ou exceder o limite de cinco locais.</p>
+     * Não permite adicionar locais duplicados ou exceder o limite de cinco locais.
      *
      * @param local o novo local a ser adicionado
      * @return {@code true} se o local for adicionado com sucesso; {@code false}
