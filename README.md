@@ -2,17 +2,14 @@
 # FilmNow
 FilmNow - A sua lista de filmes e séries
 
-## Ajuda e Suporte
+**FilmNow – A sua lista de filmes e séries**
 
-Se tiver DÚVIDAS, você pode obter ajuda e suporte por um dos seguintes canais:
+Projeto baseado no laboratório 2 da disciplina de Programação 2 da UFCG. 
 
-* [Documentação oficial da linguagem Java](https://docs.oracle.com/javase/tutorial/)
-* Com os MONITORES da disciplina no nosso Canal Oficial da disciplina de P2LP2 no Discord
+---
 
-### Contato dos professores:
+## Sobre
 
-Para outras informações, sugestões ou reclamações, nos envie um email:
+O FilmNow é uma aplicação Java que permite organizar e visualizar listas de filmes e séries. É uma implementação acadêmica que faz parte de atividades de laboratório da graduação em Computação na UFCG.
 
-* Lívia Sampaio Campos - [livia@computacao.ufcg.edu.br](mailto:livia@computacao.ufcg.edu.br)
-* Eliane Araújo - [eliane@computacao.ufcg.edu.br](mailto:eliane@computacao.ufcg.edu.br)
-* Melina Mongiovi - [melina@computacao.ufcg.edu.br](mailto:melina@computacao.ufcg.edu.br)
+---
