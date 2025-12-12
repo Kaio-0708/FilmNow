@@ -71,6 +71,7 @@ O projeto está organizado em cinco classes principais:
 
 Ao iniciar o programa, o seguinte menu será exibido:
 
+<img width="281" height="372" alt="image" src="https://github.com/user-attachments/assets/660edabb-cd2f-4bfd-9e0f-a600590c7b30" />
 
 
 Escolha a opção digitando a letra correspondente e siga as instruções.
