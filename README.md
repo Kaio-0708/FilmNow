@@ -1,8 +1,6 @@
 # FilmNow
 FilmNow - A sua lista de filmes e séries
 
-**FilmNow – A sua lista de filmes e séries**
-
 Projeto baseado no laboratório 2 da disciplina de Programação 2 da UFCG. 
 
 ---
