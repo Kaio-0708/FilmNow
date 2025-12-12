@@ -1,14 +1,14 @@
 package lab3FilmNow;
 
 import static org.junit.jupiter.api.Assertions.*;
-
 import org.junit.jupiter.api.Test;
-
 import filmnow.Filme;
-
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Test;
 
+/**
+ * @author Kaio Vitor Santos Queiroz
+ */
 class FilmeTest {
 	
 	@Test
