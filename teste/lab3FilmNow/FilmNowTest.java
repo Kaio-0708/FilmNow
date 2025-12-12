@@ -1,16 +1,15 @@
 package lab3FilmNow;
 
 import static org.junit.jupiter.api.Assertions.*;
-
 import org.junit.jupiter.api.Test;
-
 import filmnow.FilmNow;
 import filmnow.Filme;
-
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-
+/**
+ * @author Kaio Vitor Santos Queiroz
+ */
 class FilmNowTest {
 
 	private FilmNow fn;
